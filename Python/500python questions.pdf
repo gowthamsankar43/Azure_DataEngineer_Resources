@@ -11715,3 +11715,64 @@ trailer
 startxref
 1039076
 %%EOF
+123 0 obj
+<</Type/Page/Contents 411 0 R/MediaBox[ 0 0 612 792]/Parent 5 0 R/Resources<</ExtGState<</G3 286 0 R>>/Font<</F4 287 0 R/F5 288 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/StructParents 111/Annots[ 572 0 R 573 0 R]>>
+endobj
+572 0 obj
+<</Type/Annot/Subtype/Highlight/P 123 0 R/F 4/M(D:20250101205849+05'30')/Rect[ 76.992184 276.750021 176.45718 294.000021]/C[ 1 .941176 .4]/Popup 573 0 R/CA 1/CreationDate(D:20250101205849+05'30')/QuadPoints[ 76.992184 294.000021 176.45718 294.000021 76.992184 276.750021 176.45718 276.750021]/AP<</N 580 0 R>>>>
+endobj
+573 0 obj
+<</Type/Annot/Subtype/Popup/Open false/F 28/Rect[ 612 174.000021 792 294.000021]/Parent 572 0 R>>
+endobj
+578 0 obj
+<</Length 121/Type/XObject/Subtype/Form/FormType 1/BBox[ 76.992184 276.750021 176.45718 294.000021]/Matrix[ 1 0 0 1 -76.992184 -276.750021]/Resources<</ProcSet[/PDF]>>>>
+stream
+1 .941176 .4 rg
+1.078125 w
+76.992184 276.750021 m
+76.992184 294.000021 l
+176.45718 294.000021 l
+176.45718 276.750021 l
+f
+
+endstream
+endobj
+579 0 obj
+<</Length 9/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 99.464996 17.249999]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</Form 578 0 R>>>>/Group<</S/Transparency>>>>
+stream
+/Form Do
+
+endstream
+endobj
+580 0 obj
+<</Length 20/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 99.464996 17.249999]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</MWFOForm 579 0 R>>/ExtGState<</R0 581 0 R>>>>>>
+stream
+/R0 gs
+/MWFOForm Do
+
+endstream
+endobj
+581 0 obj
+<</Type/ExtGState/AIS false/BM/Multiply>>
+endobj
+6 0 obj
+<</ModDate(D:20250101205909+05'30')>>
+endobj
+xref
+6 1
+0001052211 00000 n
+123 1
+0001050675 00000 n
+572 2
+0001050913 00000 n
+0001051242 00000 n
+578 4
+0001051357 00000 n
+0001051684 00000 n
+0001051910 00000 n
+0001052152 00000 n
+trailer
+<</ID[<2570C136129417FA08AE1AEC4445533D><66FDD69B222C497D1DE2FC30863D8468>]/Info 6 0 R/Root 1 0 R/Size 582/Prev 1039076>>
+startxref
+1052264
+%%EOF
